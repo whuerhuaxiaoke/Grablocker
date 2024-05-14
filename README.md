@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grablocker
-- 👀 I’m interested in CS and CS:GO
+- 👀 I’m interested in CS and CS:GO ,and Geshin Impact.
 - 🌱 I’m currently learning Python and OS
 - 💞️ I’m looking to collaborate on students majoring Maths or Politics
 - 📫 Issue to get access to reach me
